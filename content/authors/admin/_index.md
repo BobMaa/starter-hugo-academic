@@ -1,8 +1,7 @@
 ---
 title: Zhao Ma
 role: Master Student in Informatics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Machine Learning, Bayesian statistics
 interests:
   - Artificial Intelligence
   - Computational Linguistics
