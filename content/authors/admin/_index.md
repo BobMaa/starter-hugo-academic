@@ -1,7 +1,7 @@
 ---
 title: Zhao Ma
 role: Master Student in Informatics
-avatar_filename: zm-headshot.jpg
+avatar_filename: ZM headshot.jpg
 bio: Machine Learning, Bayesian statistics
 interests:
   - Artificial Intelligence
