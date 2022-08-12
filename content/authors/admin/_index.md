@@ -7,10 +7,6 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: zxm5153@psu.edu
 organizations:
   - name: Pennsylvania State University
 education:
