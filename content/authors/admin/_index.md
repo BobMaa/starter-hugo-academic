@@ -27,4 +27,4 @@ highlight_name: true
 ---
 Zhao Ma is currently a master student of inforamtics in Pennsylvania State University. His research interest is theorectical methods in machine learning. His advisor is Justin Silverman.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/ZhaoMa_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ZhaoMa_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
