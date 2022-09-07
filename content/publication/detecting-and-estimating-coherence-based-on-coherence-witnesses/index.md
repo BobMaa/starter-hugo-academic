@@ -1,7 +1,7 @@
 ---
 title: Detecting and estimating coherence based on coherence witnesses
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Zhao Ma
   - Zhou Zhang
