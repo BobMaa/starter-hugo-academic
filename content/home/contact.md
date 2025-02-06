@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: zxm5153@psu.edu
+  email: zxm240001@utdallas.edu
   phone: +1(814)852-9691
   
 
