@@ -1,16 +1,17 @@
 ---
 title: Zhao Ma
-role: Master Student in Informatics
+role: PhD Student in Computer Science
 avatar_filename: avatar.jpg
-bio: Machine Learning, Bayesian statistics
+bio: Quantum Computing, Quantum Information
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Q﻿uantum Computing
+  - Quantum Error Correction
 organizations:
-  - name: Pennsylvania State University
+  - name: University of Texas at Dallas
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of Texas at Dallas
     - course: MS in Informatics
       institution: Pennsylvania State University
       year: 2023
@@ -21,6 +22,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zhao Ma is currently a master student of inforamtics in Pennsylvania State University. His research interest is theorectical methods in machine learning. His advisor is Justin Silverman.
+Z﻿hao Ma is currently a PhD studentof Computer Science in University of Texas at Dallas, advised by Andrew Nemec.
+
+Zhao Ma was a master student of inforamtics in Pennsylvania State University, and was fortunately advised by Justin Silverman there.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ZhaoMa_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
